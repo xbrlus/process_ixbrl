@@ -1,0 +1,24 @@
+name: xus-parser
+
+dependencies:
+  - python=3.10
+  - Flask
+  - Flask-Waitress
+  - weasyprint
+  - libpangocairo-1.0-0 
+  - pandas
+  - bs4
+  - regex
+  - lxml
+  - isodate
+  - pip
+  - pip:
+    - Flask
+    - Flask-Waitress
+    - weasyprint
+    - libpangocairo-1.0-0 
+    - pandas
+    - bs4
+    - regex
+    - lxml
+    - isodate
