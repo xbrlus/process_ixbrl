@@ -1,7 +1,7 @@
 name: xus-parser
 
 dependencies: 
-  - sudo apt-get install libpangocairo-1.0-0
+  - apt-get install libpangocairo-1.0-0
   - python=3.10.0
   - Flask
   - weasyprint
